@@ -529,7 +529,7 @@
         } else {
 
           // 
-          if ((i>27) && (mSi<13)) {
+          if ((i>27) && (mSi<15)) {
 
             classes.push(this.options.classes.nextMonthDate);
             varMonth = 1;
